@@ -29,7 +29,7 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 -  Print in TPU filament
 
-- You can even use my tuned TPU settings in my Github Repo here:
+- You can even use my tuned TPU settings in my Github Repo here:https://github.com/MKme/I3-Mega-3D-Printer-Settings-Resources  and for the CR10 here: https://github.com/MKme/CR10-3D-Printer-Settings-and-Reference
 
 
 
