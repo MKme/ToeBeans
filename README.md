@@ -14,13 +14,15 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 Toe grips for dogs which have trouble on slippery floors/surfaces
 
-<img src="https://github.com/MKme/ToeBeans/blob/main/pics/Prototype%20.jpg"/>
-
 As our Sheepdog Riggs aged he had increasingly more troubles on our hardwood floors.  Each time he slipped or fell it made him less confident and us feel more helpless. 
 
 I ordered a commercial set of these at $60USD to me here in Canada and knew I could do better.  Here is the comemrcial ones in case you want to buy them https://shop.toegrips.com/products/toegrips
 
 I designed these in Freecad and you can customize them to fit your dog and print them out yourself!  
+
+<img src="https://github.com/MKme/ToeBeans/blob/main/pics/Prototype%20.jpg"/>
+
+
 
 ### Instructions:
 
