@@ -20,17 +20,21 @@ As our Sheepdog Riggs aged he had increasingly more troubles on our hardwood flo
 
 I ordered a commercial set of these at $60USD to me here in Canada and knew I could do better.  Here is the comemrcial ones in case you want to buy them https://shop.toegrips.com/products/toegrips
 
-I designed these in Freecad and you can customize them to fit your dog and print them 
+I designed these in Freecad and you can customize them to fit your dog and print them out yourself!  
 
-out yourself!  
+### Instructions:
 
-Instructions:
+- Size in FreeCad as you need by changing the diameter of the 2 radius values here: 
 
--  Print in TPU
+
+-  Print in TPU filament
 
 - You can even use my tuned TPU settings in my Github Repo here:
 
 
 
+### Purchase
 
-Buy them premade from my store here: TBD
+Buy them premade from my store here if you like : TBD
+
+Throw me a buck on Patreon above if you like these projects
