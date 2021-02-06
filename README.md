@@ -51,7 +51,6 @@ Throw me a buck on Patreon above if you like these projects
 ## Notes:
 
 - Made them to thin first versions to test fit then tweaked diameter larger after
-
 - 10 mm seems like a perfect height for Riggs
 
 ###  Size tests (Riggs)
