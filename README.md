@@ -1,5 +1,3 @@
-# ToeBeans
-Toe grips for dogs which have trouble on slippery floors/surfaces
 
 <p align="center">
 
@@ -11,6 +9,8 @@ Support this project and become a patron on <a href="http://mkme.org/patreon">Er
 Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
+# ToeBeans
+Toe grips for dogs which have trouble on slippery floors/surfaces
 
 <img src="https://github.com/MKme/ToeBeans/blob/main/pics/Prototype%20.jpg"/>
 
