@@ -26,6 +26,8 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 ### Instructions:
 
+- Measure : https://www.youtube.com/watch?v=yRrzz1uOwbI&feature=emb_title&ab_channel=ToeGrips
+
 - Size in FreeCad as you need by changing the diameter of the 2 radius values here: 
 
 <img src="https://github.com/MKme/ToeBeans/blob/main/pics/2.PNG"/>
@@ -37,6 +39,8 @@ I designed these in Freecad and you can customize them to fit your dog and print
 - and for the CR10 here: https://github.com/MKme/CR10-3D-Printer-Settings-and-Reference
 
 <img src="https://github.com/MKme/ToeBeans/blob/main/pics/1.PNG"/>
+
+- Apply: https://www.youtube.com/watch?v=UYf_AoBE18Y&t=5&ab_channel=ToeGrips
 
 ### Purchase
 
