@@ -28,6 +28,7 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 - Size in FreeCad as you need by changing the diameter of the 2 radius values here: 
 
+<img src="https://github.com/MKme/ToeBeans/blob/main/pics/2.PNG"/>
 
 -  Print in TPU filament
 
@@ -44,4 +45,4 @@ Throw me a buck on Patreon above if you like these projects
 ### Notes:
 
 
-<img src="https://github.com/MKme/ToeBeans/blob/main/pics/2.PNG"/>
+
