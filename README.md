@@ -56,3 +56,8 @@ Throw me a buck on Patreon above if you like these projects
 
 ###  Size tests (Riggs)
 
+- 4.7 inner too big
+- 3.7 too small
+- 4.2 near perfect but slid up too high during a walk 
+- From here moved from 1 to 2mm thick
+- 4.1x6.1 
