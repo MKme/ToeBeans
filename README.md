@@ -33,7 +33,7 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 - You can even use my tuned TPU settings in my Github Repo here:https://github.com/MKme/I3-Mega-3D-Printer-Settings-Resources  and for the CR10 here: https://github.com/MKme/CR10-3D-Printer-Settings-and-Reference
 
-<img src="https://github.com/MKme/ToeBeans/blob/main/pics/1.png"/>
+<img src="https://github.com/MKme/ToeBeans/blob/main/pics/1.PNG"/>
 
 ### Purchase
 
@@ -44,4 +44,4 @@ Throw me a buck on Patreon above if you like these projects
 ### Notes:
 
 
-<img src="https://github.com/MKme/ToeBeans/blob/main/pics/2.png"/>
+<img src="https://github.com/MKme/ToeBeans/blob/main/pics/2.PNG"/>
