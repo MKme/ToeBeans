@@ -24,7 +24,7 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 
 
-### Instructions:
+## Instructions:
 
 - Measure : https://www.youtube.com/watch?v=yRrzz1uOwbI&feature=emb_title&ab_channel=ToeGrips
 
@@ -42,13 +42,17 @@ I designed these in Freecad and you can customize them to fit your dog and print
 
 - Apply: https://www.youtube.com/watch?v=UYf_AoBE18Y&t=5&ab_channel=ToeGrips
 
-### Purchase
+## Purchase
 
 Buy them premade from my store here if you like : TBD
 
 Throw me a buck on Patreon above if you like these projects
 
-### Notes:
+## Notes:
 
+- Made them to thin first versions to test fit then tweaked diameter larger after
 
+- 10 mm seems like a perfect height for Riggs
+
+###  Size tests (Riggs)
 
