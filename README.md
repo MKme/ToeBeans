@@ -8,7 +8,7 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
-# ToeBeans
+# Toe-Beans
 
 Toe grips for dogs which have trouble on slippery floors/surfaces
 
