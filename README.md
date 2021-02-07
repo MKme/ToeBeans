@@ -18,6 +18,8 @@ I ordered a commercial set of these at $60USD to me here in Canada and knew I co
 
 I designed these in Freecad and you can customize them to fit your dog and print them out yourself!  
 
+Here is a commercial one : https://www.youtube.com/watch?v=LYg6hkmdTeE&ab_channel=ToeGrips
+
 <img src="https://github.com/MKme/ToeBeans/blob/main/pics/Prototype%20.jpg"/>
 
 
