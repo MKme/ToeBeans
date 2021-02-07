@@ -60,3 +60,11 @@ Throw me a buck on Patreon above if you like these projects
 - 4.2 near perfect but slid up too high during a walk 
 - From here moved from 1 to 2mm thick
 - 4.1x6.1 
+
+###  TBD
+
+- Chamfer top edge in case they ride up
+- Leave bottom edge square for max grips
+- Grip pattern like a tire?
+- More infill needed or fine as they are?
+
