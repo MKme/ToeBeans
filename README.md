@@ -48,7 +48,7 @@ Buy them premade from my store here if you like : TBD
 
 Throw me a buck on Patreon above if you like these 
 
-## Sizes
+## Sizes (Commerical versions)
 
 Nail Circumference	| Size
 | ---------- |----------------|
