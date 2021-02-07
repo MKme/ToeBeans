@@ -46,7 +46,19 @@ Here is a detailed video on how they work : https://www.youtube.com/watch?v=LYg6
 
 Buy them premade from my store here if you like : TBD
 
-Throw me a buck on Patreon above if you like these projects
+Throw me a buck on Patreon above if you like these 
+
+## Sizes
+
+Nail Circumference	| Size
+| ---------- |----------------|
+9-12mm	| XS	
+13-15mm	|S	
+16-19mm|	M	 
+20-23mm	|L	
+24-27mm	|XL	
+28-30mm|	XXL	 
+31-36mm	|XXXL
 
 ## Notes:
 
