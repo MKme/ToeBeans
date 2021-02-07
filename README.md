@@ -12,7 +12,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 Toe grips for dogs which have trouble on slippery floors/surfaces
 
-As our Sheepdog Riggs aged he had increasingly more troubles on our hardwood floors.  Each time he slipped or fell it made him less confident and us feel more helpless. 
+As our Sheepdog aged he had increasingly more troubles on our hardwood floors.  Each time he slipped or fell it made him less confident and us feel more helpless. 
 
 I ordered a commercial set of these at $60USD to me here in Canada and knew I could do better.  Here is the commercial ones in case you want to buy them https://shop.toegrips.com/products/toegrips
 
@@ -63,9 +63,9 @@ Nail Circumference	| Size
 ## Notes:
 
 - Made them to thin first versions to test fit then tweaked diameter larger after
-- 10 mm seems like a perfect height for Riggs
+- 10 mm seems like a perfect height 
 
-###  Size tests (Riggs)
+###  Size tests 
 
 - 4.7 inner too big
 - 3.7 too small
