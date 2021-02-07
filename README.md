@@ -68,3 +68,6 @@ Throw me a buck on Patreon above if you like these projects
 - Grip pattern like a tire?
 - More infill needed or fine as they are?
 
+# Attribution
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. https://creativecommons.org/licenses/by-nc/4.0/ 
