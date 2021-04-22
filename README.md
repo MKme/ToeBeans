@@ -73,6 +73,8 @@ Nail Circumference	| Size
 - From here moved from 1 to 2mm thick
 - 4.1x6.1 
 
+Final- 8X13.2X9 is the final size/revision done.  Works perfectly
+
 ###  TBD
 
 - Chamfer top edge in case they ride up
